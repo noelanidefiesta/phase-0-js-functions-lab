@@ -1,7 +1,7 @@
 **Lab: Functions in JavaScript**
 
 **Estimate Completed Time:** 30-60 minutes
-
+_did it_
 **Overview:**
 You are working as a junior developer at a company that builds tools for managing personal budgets. Your task is to create a set of basic functions to perform common calculations related to budgeting. This lab will help you practice defining and using functions in JavaScript.
 
